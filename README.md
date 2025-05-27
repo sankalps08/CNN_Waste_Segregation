@@ -95,7 +95,7 @@ ImageDataGenerator(
     horizontal_flip=True,
     fill_mode='nearest'
 )
-
+```
 
 ## 📈 Results and Evaluation
 
